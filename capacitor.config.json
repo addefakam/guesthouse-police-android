@@ -1,0 +1,27 @@
+{
+  "appId": "com.guesthouse.police",
+  "appName": "Bishoftu Police",
+  "webDir": "www",
+  "server": {
+    "url": "https://guesthousewithpolicemodule-git-4dab70-addefakam-9199s-projects.vercel.app/police-app",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1e293b",
+      "showSpinner": false,
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#1e293b"
+    },
+    "Keyboard": {
+      "resize": "body",
+      "style": "DARK",
+      "resizeOnFullScreen": true
+    }
+  }
+}

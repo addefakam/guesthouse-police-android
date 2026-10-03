@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bishoftu Police</string>
+    <string name="title_activity_main">Bishoftu Police</string>
+    <string name="package_name">com.guesthouse.police</string>
+    <string name="custom_url_scheme">com.guesthouse.police</string>
+</resources>
